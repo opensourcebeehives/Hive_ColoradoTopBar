@@ -1,0 +1,11 @@
+CTB 5.4
+
+Machine Notes
+
+- Problem with going 5mm depth on nearside pockets.
+- Problem with parrallel finishing not happening.
+
+- Increase depth of tabs
+- Extra tabs everywhere,
+- Extra tabs on door pieces
+- Extra Tabs to go on ends of top bars rather than sides
