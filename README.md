@@ -1,4 +1,6 @@
 The Colorado Top Bar
 ================
 
-The Colorado Top Bar Beehive Design Files
+The Colorado Top Bar Beehive Design Files.
+
+Test, Test
