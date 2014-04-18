@@ -3,8 +3,9 @@ Open Source Beehives - Colorado Top Bar 5.4
 
 # Project Overview
 
-The Open Source Beehives project is a collaborative response to the threat faced by bee populations in industrialised nations around the world. The project proposes to design hives that can support bee colonies in a sustainable way and to monitor and track the health and behaviour of a colony as it develops. 
+The Open Source Beehives project is a collaborative response to the threat faced by bee populations around the world. The project proposes to design hives that can support bee colonies in a sustainable way and to monitor and track the health and behaviour of a colony as it develops. 
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Collaboration Links
 
@@ -26,7 +27,7 @@ The Open Source Beehive project is a collaboration between [Fablab Barcelona](ht
 
 For partnership inquiries, please email:
 
-*info@opensourcebeehives.net*
+*hello@opensourcebeehives.net*
 
 # Colorado Top Bar 5.4 Introduction
 
