@@ -23,8 +23,6 @@ The Open Source Beehives project is a collaborative response to the threat faced
 
 ##Project Partnerships
 
-The Open Source Beehive project is a collaboration between [Fablab Barcelona](http://fablabbcn.org/), [Open Tech Forever](www.opentechforever.com), and [Valldura](http://www.valldaura.net/).
-
 For partnership inquiries, please email:
 
 *hello@opensourcebeehives.net*
