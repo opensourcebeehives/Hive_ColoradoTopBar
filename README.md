@@ -1,4 +1,4 @@
-#GrowSquare v1.0
+#Colorado Top Bar - v1.0
 
 *Overview*
 
