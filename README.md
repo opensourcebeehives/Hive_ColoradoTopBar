@@ -1,37 +1,32 @@
-Open Source Beehives - Colorado Top Bar 5.4
-=========
+#GrowSquare v1.0
 
-# Project Overview
+*Overview*
 
-The Open Source Beehives project is a collaborative response to the threat faced by bee populations around the world. The project proposes to design hives that can support bee colonies in a sustainable way and to monitor and track the health and behaviour of a colony as it develops. 
+The **AKER GrowSquare** is a raised plant bed designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+![GrowSquare](https://github.com/AKERKits/GrowSquare/blob/master/Images/AKER%20-%20GrowSquare%20-%20v1.0%20-%20Master%20Assembly%20(side%20view)%20Cropped-min.jpg)
 
-## Collaboration Links
+*Source Files*
 
-[Open Source Beehives](http://www.opensourcebeehives.net/)
+We model each kit in SolidWorks. To access the parametric source files, download the *AKER - GrowSquare - v1.0 - SW-P.zip* file and then establish local file references following this video: [AKER - Parametric Models](https://www.youtube.com/watch?v=Ewdrlv4nSA0). You can then adjust the model dimensions using the external *Equations.txt* file.
 
-[Collaboration Forum](http://community.opensourcebeehives.net/)
+The **GrowSquare** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
 
-[Github - Main Repositories](https://github.com/opensourcebeehives)
+ * 0.5 inch material & 0.125 inch tool
+ * 0.5 inch material & 0.25 inch tool
+ * 0.5 inch material & 0.375 inch tool
+ * 0.75 inch material & 0.125 inch tool
+ * 0.75 inch material & 0.25 inch tool
+ * 0.75 inch material & 0.375 inch tool
+ * 0.75 inch material & 0.5 inch tool
+ * 12 mm material & 3 mm tool
+ * 12 mm material & 6 mm tool
+ * 12 mm material & 10 mm tool
+ * 18 mm material & 3 mm tool
+ * 18 mm material & 6 mm tool
+ * 18 mm material & 10 mm tool
+ * 18 mm material & 12 mm tool
 
-[Twitter](https://twitter.com/search?q=%23opensourcebeehives)
+*Nesting Layout*
 
-[Facebook](https://www.facebook.com/opensourcebeehives)
-
-[Donate](https://www.paypal.com/es/cgi-bin/webscr?cmd=_flow&SESSION=xN5iwGcPD04BsXKkkGOAwtqmWhK0ziTi_KQAvnt435SmxvAM0x32rMG5dG0&dispatch=5885d80a13c0db1f8e263663d3faee8d48a116ba977951b3435308b8c4dd4ef1)
-
-##Project Partnerships
-
-For partnership inquiries, please email:
-
-*hello@opensourcebeehives.net*
-
-# Colorado Top Bar 5.4 Introduction
-
-The CTB Top Bar 5.4 is designed to be produced using a CNC router. It can be made from a single sheet of wood of the standard dimensions 1220 x 2440. This is the fifth prototype of this design type and is currently being tested in Six countries and four continents around the world.
-
-## About the Top Bar Design
-
-*A top-bar hive is a single-storey frameless bee hive in which the comb hangs from removeable bars. Hives that have frames or that use honey chambers in summer but which use similar management principles as regular top-bar hives are sometimes also referred to as top-bar hives. Top-bar hives are rectangular in shape and are typically more than twice as wide as multi-storey framed hives commonly found in English speaking countries. Top-bar hives are usually not portable, and allow beekeeping methods that interfere very little with the colony.*
-- [Wikipedia](http://en.wikipedia.org/wiki/Top-bar_hive)
+![GrowSquare](https://github.com/AKERKits/GrowSquare/blob/master/Images/AKER%20-%20GrowSquare%20-%20v1.0%20-%20Nesting%20Assembly%20Cropped-min%20(1).jpg)
